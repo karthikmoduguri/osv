@@ -55,7 +55,6 @@ Thumbs.db
 *.h5
 *.pth
 *.pt
-*.model
 *.bin
 
 # Data files (large datasets - DON'T PUSH)
