@@ -51,7 +51,6 @@ Thumbs.db
 *.pkl
 *.pickle
 *.joblib
-*.keras
 *.h5
 *.pth
 *.pt
