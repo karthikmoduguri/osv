@@ -1,0 +1,83 @@
+.gov-container {
+  max-width: 760px;
+  margin: auto;
+  padding: 30px;
+  font-family: "Segoe UI", sans-serif;
+  background: #f8f9fa;
+  border: 1px solid #ddd;
+}
+
+h1 {
+  text-align: center;
+  color: #003366;
+}
+
+.subtitle {
+  text-align: center;
+  font-size: 14px;
+  color: #555;
+}
+
+.sig-canvas {
+  border: 2px solid #003366;
+  background: #fff;
+  margin-top: 20px;
+}
+
+.progress {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.btn-group {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.btn {
+  padding: 10px 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.primary {
+  background: #003366;
+  color: white;
+}
+
+.secondary {
+  background: #aaa;
+}
+
+.submit {
+  margin-top: 20px;
+  width: 100%;
+  background: #006400;
+  color: white;
+}
+
+.result-box {
+  background: #e6ffe6;
+  padding: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.user-id {
+  font-size: 20px;
+  font-weight: bold;
+  background: #fff;
+  padding: 10px;
+  border: 1px dashed #333;
+}
+
+.warn {
+  color: #b30000;
+  font-size: 13px;
+}
+
+.info {
+  margin-top: 15px;
+  color: #333;
+}

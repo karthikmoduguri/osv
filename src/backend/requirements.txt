@@ -1,0 +1,13 @@
+Flask==2.2.5
+flask-cors
+pymongo
+dnspython           # for mongo atlas URI
+numpy
+pandas
+scikit-learn
+tensorflow   # or tf-cpu if GPU not available, adjust version as needed
+opencv-python
+Pillow
+lime
+matplotlib          # optional (for debugging/plots)
+gunicorn            # for production

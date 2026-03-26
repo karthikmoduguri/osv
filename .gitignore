@@ -1,0 +1,105 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.venv
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.bak
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Machine Learning Models (large files - DON'T PUSH)
+*.pkl
+*.pickle
+*.joblib
+*.keras
+*.h5
+*.pth
+*.pt
+*.model
+*.bin
+
+# Data files (large datasets - DON'T PUSH)
+*.csv
+notebooks/SVC2004_Sample/
+notebooks/Task1/
+notebooks/Task1_clean/
+notebooks/Task2/
+training/New folder (10)/
+
+# Generated outputs
+*.png
+*.jpg
+*.jpeg
+confusion_matrix.*
+feature_importance.*
+siamese_distance_distribution.*
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Node/npm (frontend)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+*.cache
+
+# Temporary files
+*.tmp
+temp/
+tmp/
